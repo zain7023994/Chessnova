@@ -1,0 +1,11 @@
+{
+  "background_color": "#101014",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chessnova-zain's edition",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Chessnova",
+  "start_url": "/",
+  "theme_color": "#d4af37"
+}
